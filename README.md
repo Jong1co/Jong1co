@@ -35,7 +35,7 @@ These days, I study hard all day to be a good developer. <br/> <br/>
 
 <br/>
 
-<span align="center" width="100%">
+<span width="100%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jong1co&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jong1co&layout=compact&theme=tokyonight)
