@@ -1,5 +1,8 @@
+<div align="center">
 
-<img align="center" src="https://user-images.githubusercontent.com/95389265/196069138-7cbaf8b3-7a81-4e2e-b101-81e919ccd247.png">
+<img width="50%" align="center" src="https://user-images.githubusercontent.com/95389265/196069138-7cbaf8b3-7a81-4e2e-b101-81e919ccd247.png">
+
+</div>
 
 <!--
 **Jong1co/Jong1co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
