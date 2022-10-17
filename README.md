@@ -33,24 +33,22 @@ These days, I study hard all day to be a good developer. <br/> <br/>
 
 <br/>
 
-
----
-
 <br/>
 
-<div align="center">
+<span align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jong1co&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jong1co&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jong1co&layout=compact&theme=tokyonight)
 
-</div>
 
+</span>
 
 
 
 <div align="center">
 
-<img width="50%" align="center" src="https://user-images.githubusercontent.com/95389265/196069138-7cbaf8b3-7a81-4e2e-b101-81e919ccd247.png">
+<img height="300px" align="center" src="https://user-images.githubusercontent.com/95389265/196158582-6624f170-a4f9-45e5-8a8c-d209015353c6.png">
+<img height="300px" align="center" src="https://user-images.githubusercontent.com/95389265/196069138-7cbaf8b3-7a81-4e2e-b101-81e919ccd247.png">
 
 </div>
 
