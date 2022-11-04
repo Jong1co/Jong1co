@@ -5,7 +5,7 @@
 <br/>
 Hi There~ I'm a Front-end developer.☺️ <br/> <br/>
 My main skiils are HTML, CSS, JavaScript and React. <br/> <br/>
-These days, I study hard all day to be a good developer. <br/> <br/>
+These days, I'm studying TypeScript. <br/> <br/>
 
 
 </div>
