@@ -3,9 +3,9 @@
 # 💎Me💎
 
 <br/>
-Hi There~ I'm a Front-end developer.☺️ <br/> <br/>
+Hi There~ I'm trying to become a great front-end developer.☺️ <br/> <br/>
 My main skiils are HTML, CSS, JavaScript and React. <br/> <br/>
-These days, I'm studying TypeScript. <br/> <br/>
+These days, I'm interested in TypeScript, Data structure and Design Pattern. <br/> <br/>
 
 
 </div>
