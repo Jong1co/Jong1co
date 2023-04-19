@@ -44,14 +44,6 @@ These days, I'm interested in TypeScript, Data structure and Design Pattern. <br
 </div>
 
 
-
-<div align="center">
-
-<img height="300px" align="center" src="https://user-images.githubusercontent.com/95389265/196158582-6624f170-a4f9-45e5-8a8c-d209015353c6.png">
-<img height="300px" align="center" src="https://user-images.githubusercontent.com/95389265/196069138-7cbaf8b3-7a81-4e2e-b101-81e919ccd247.png">
-
-</div>
-
 <!--
 **Jong1co/Jong1co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
