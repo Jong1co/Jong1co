@@ -4,7 +4,6 @@
 
 <br/>
 Hi There~ I'm trying to become a great front-end developer.☺️ <br/> <br/>
-My main skiils are HTML, CSS, JavaScript and React. <br/> <br/>
 These days, I'm interested in TypeScript, Data structure and Design Pattern. <br/> <br/>
 
 
